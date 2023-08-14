@@ -1,0 +1,113 @@
+{
+  "apps": [
+    {
+      "status": 1,
+      "redirect_url": "",
+      "privacy_policy_url": "",
+      "email_feedback_and_report": "",
+      "webview_cache": true,
+      "post_list_in_large_style": true,
+      "show_post_list_header": true,
+      "show_post_detail_image": true,
+      "show_post_detail_title": true,
+      "show_post_detail_category": true,
+      "show_related_posts": true,
+      "enable_rtl_mode": true,
+      "enable_exit_dialog": true,
+      "enable_app_protection": true,
+      "enable_dark_mode_as_default_theme": true,
+      "youtube_api_key": "AIzaSyCbehD6DCeDZHaGl8SUWKh1koTiHwKcvKY",
+      "base64_license_key": ""
+    }
+  ],
+  "ads": [
+    {
+      "ad_status": 1,
+      "main_ad": "admob",
+      "backup_ad": "applovin_max",
+      "admob_banner_unit_id": "ca-app-pub-6947849202823364/4486817xx",
+      "admob_interstitial_unit_id": "ca-app-pub-6947849202823364/265825xx",
+      "admob_native_unit_id": "ca-app-pub-6947849202823364/903208xx",
+      "admob_app_open_unit_id": "ca-app-pub-6947849202823364/560832xx",
+      "ad_manager_banner_unit_id": "/6499/example/banner",
+      "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
+      "ad_manager_native_unit_id": "/6499/example/native",
+      "ad_manager_app_open_unit_id": "/6499/example/app-open",
+      "fan_banner_unit_id": "438057890771981_438058837438553",
+      "fan_interstitial_unit_id": "438057890771981_438059240771846",
+      "fan_native_unit_id": "438057890771981_815135109730922",
+      "startapp_app_id": "0",
+      "unity_game_id": "4725055",
+      "unity_banner_placement_id": "Banner_Android",
+      "unity_interstitial_placement_id": "Interstitial_Android",
+      "applovin_banner_unit_id": "34c8d8a58e8792be",
+      "applovin_interstitial_unit_id": "ff1a4ea084299d4e",
+      "applovin_native_manual_unit_id": "1741994aed92679b",
+      "applovin_open_ad_unit_id": "0",
+      "applovin_banner_zone_id": "0",
+      "applovin_interstitial_zone_id": "0",
+      "ironsource_app_key": "85460dcd",
+      "ironsource_banner_id": "DefaultBanner",
+      "ironsource_interstitial_id": "DefaultInterstitial",
+      "interstitial_ad_interval": 1,
+      "native_ad_index": 1,
+      "native_ad_interval": 3,
+      "native_ad_style": "medium",
+      "native_ad_post_details_position": "top",
+      "show_banner_ad_home": true,
+      "show_banner_ad_post_details": true,
+      "show_banner_ad_category_details": true,
+      "show_banner_ad_search": true,
+      "show_interstitial_ad_post_list": true,
+      "show_interstitial_ad_post_details": true,
+      "show_native_ad_post_list": true,
+      "show_native_ad_post_details": true,
+      "show_app_open_ad": true
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "category": "MINECRAFT PE MODS & ADDONS",
+      "title": "Amanda The Adventurer Add-on [Beta]",
+      "image": "https://api.mcpedl.com/storage/submissions/86771/100/20220528125514_1-520x245.png",
+      "download": "https://direct-link.net/443339/amanda-the-adventurer&blid=142",
+      "description": "This Addon Is based on the game called 'Amanda the adventurer' this game is a kids horror game for this addon i only added 1 character, and that is amanda in monster form, i wil...",
+      "content": "This Addon Is based on the game called 'Amanda the adventurer' this game is a kids horror game for this addon i only added 1 character, and that is amanda in monster form, i will add the sheep and amanda in human form next update"
+    },
+    {
+      "id": 2,
+      "category": "MINECRAFT PE MODS & ADDONS",
+      "title": "Detroit Become Human Addon",
+      "image": "https://api.mcpedl.com/storage/submissions/76115/100/20211101120826_1-520x245.png",
+      "download": "https://www.mediafire.com/file/paj8ew1f5qjbjzv/\u00a7bDetroit+Become+Human+Addon_1635604395577.mcaddon/file&blid=162",
+      "description": "Are you a fan of Detroit become human, then this Addon is for you. This Addon brings you some characters from Detroit become human. There are Bad Androids, Good Androids and Hum...",
+      "content": "Are you a fan of Detroit become human, then this Addon is for you. This Addon brings you some characters from Detroit become human. There are Bad Androids, Good Androids and Humans. This Addon is just made for fun as one of my viewer asked me to create the addon so I did. If you want to suggest me your ideas for an Addon, then you can suggest me in my YouTube channel. Also you are free to make a YouTube video but please credit me in your video"
+    },
+    {
+      "id": 3,
+      "category": "MINECRAFT PE MODS & ADDONS",
+      "title": "\"HorrorCraft\": Halloween Special",
+      "image": "https://mcpedl.com/wp-content/uploads/2020/11/horrorcraft-halloween-special_1-520x245.png",
+      "download": "http://ivononic.com/3fQk&blid=117",
+      "description": "An add-on that brings you some of the most popular horror movie antagonists (and more coming on the way!). Explore your world with caution, and watch out for the night, then is ...",
+      "content": "An add-on that brings you some of the most popular horror movie antagonists (and more coming on the way!). Explore your world with caution, and watch out for the night, then is when things get spooky. It also brings some new weapons and rare consumables."
+    },
+    {
+      "id": 4,
+      "category": "MINECRAFT PE MODS & ADDONS",
+      "title": "Black Adam Add-on Minecraft",
+      "image": "https://api.mcpedl.com/storage/submissions/95615/100/azrecorder20221210100117_1-520x245.png",
+      "download": "https://www.mediafire.com/file/mj04dvfvmy7et01/\u00a7gBlack+Adam+Minecraft+Add-on+_1668544371430.mcaddon/file&blid=162",
+      "description": "DC Universe has tons of interesting anti-heroes but there is no one like Black Adam. The champion of Kahndaq and the so-called \"protector\" does not hesitate to give justice by a...",
+      "content": "DC Universe has tons of interesting anti-heroes but there is no one like Black Adam. The champion of Kahndaq and the so-called \"protector\" does not hesitate to give justice by any means even if it means killing his enemies. Though he has done evil things he has at times joined the side of good to protect the innocent. \nFor Updates and bug fixes you can suggest them in my YouTube channel https://youtube.com/c/MrXtr8me\nYou can also leave your ideas for making an add-on. I will try my best to make it."
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "MINECRAFT PE MODS & ADDONS",
+      "image": ""
+    }
+  ]
+}
